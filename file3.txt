@@ -1,3 +1,5 @@
 Este é o exemplo de um ficheiro de texto file3
 
 Não foram feitas alterações neste ficheiro
+
+Foram feitas alterações neste ficheiro na branch NovaFeature
